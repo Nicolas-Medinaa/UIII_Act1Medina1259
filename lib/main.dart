@@ -32,26 +32,26 @@ class _ImageDetailSliderScreenState extends State<ImageDetailSliderScreen> {
     {
       'url':
           'https://raw.githubusercontent.com/Nicolas-Medinaa/maquetacion-Imagenes/refs/heads/main/iPhone1.jpg',
-      'title': 'Golden Gate Bridge',
+      'title': 'IPhone Pro Max 16',
       'rating': '4.0 (2000)',
       'description':
-          'El Puente Golden Gate es un puente colgante que cruza el estrecho de Golden Gate, el canal entre la Bahía de San Francisco y el Océano Pacífico.',
+          'El iPhone 16 Pro Max llega a ofrecer mas en potencia como en modernidad, crea una interfaz tan comoda como funcional para todos',
     },
     {
       'url':
           'https://raw.githubusercontent.com/Nicolas-Medinaa/maquetacion-Imagenes/refs/heads/main/iPhone2.jpg',
-      'title': 'Montañas Serenas',
-      'rating': '4.5 (1500)',
+      'title': 'iPhone Pro 15',
+      'rating': '4.0 (1500)',
       'description':
-          'Un paisaje montañoso impresionante con picos nevados y valles verdes, ideal para el senderismo y la exploración.',
+          'Un dispositivo versatil en empresas profesionales como para uso propio, este telefono ofrece una gran potencia por un precio accesible',
     },
     {
       'url':
           'https://raw.githubusercontent.com/Nicolas-Medinaa/maquetacion-Imagenes/refs/heads/main/iPhone3.jpg',
-      'title': 'Arquitectura Moderna',
+      'title': 'iPhone 14',
       'rating': '4.2 (1800)',
       'description':
-          'Un edificio de diseño arquitectónico moderno con líneas limpias, grandes ventanales y una estética contemporánea.',
+          'Un telefono tan lindo y moderno que llega a ofrecer mas en potencia como en modernidad, crea una interfaz tan comoda como funcional para todos',
     },
   ];
   int _currentPage = 0;
